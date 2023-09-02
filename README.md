@@ -1,2 +1,2 @@
 # random-samples
-Random code sample, mostly to keep myself organized
+Random code samples, mostly to keep myself organized
